@@ -1,0 +1,19 @@
+@import "../../../../variables/color-variables.scss";
+@import "../../../../variables/margin-variables.scss";
+
+header {
+    width: 100%;
+    background-color: $main-blue-color;
+    color: $font-color-on-main-blue-color;
+}
+
+.nav-bar {
+    margin: $base-application-margin;
+    padding: 25px 0;
+    font-size: 1.4rem;
+    font-weight: 500;
+    display: flex;
+    &__elem {
+        margin-right: 30px;
+    }   
+}

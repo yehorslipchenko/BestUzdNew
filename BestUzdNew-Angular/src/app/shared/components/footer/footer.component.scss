@@ -1,0 +1,23 @@
+@import "../../../../variables/height-variables.scss";
+@import "../../../../variables/margin-variables.scss";
+@import "../../../../variables/color-variables.scss";
+
+.footer {
+    color: $font-color-on-main-blue-color;
+    background-color: $main-blue-color;
+    height: $footer-height;
+    width: 100%;
+    &-content {
+        display: flex;
+        margin: $base-application-margin;
+        &__contacts {
+            width: 20%;
+        }
+        &__empty {
+            width: 40%;
+        }
+        &__copyright {
+            width: 40%;
+        }
+    }
+}

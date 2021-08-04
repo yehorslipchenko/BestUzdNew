@@ -1,0 +1,14 @@
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\obj\Debug\netcoreapp3.1\BestUzdNew.Logic.csproj.AssemblyReference.cache
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\obj\Debug\netcoreapp3.1\BestUzdNew.Logic.AssemblyInfoInputs.cache
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\obj\Debug\netcoreapp3.1\BestUzdNew.Logic.AssemblyInfo.cs
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\obj\Debug\netcoreapp3.1\BestUzdNew.Logic.csproj.CoreCompileInputs.cache
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\bin\Debug\netcoreapp3.1\BestUzdNew.Logic.deps.json
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\bin\Debug\netcoreapp3.1\BestUzdNew.Logic.dll
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\bin\Debug\netcoreapp3.1\BestUzdNew.Logic.pdb
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\bin\Debug\netcoreapp3.1\BestUzdNew.DataAccess.dll
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\bin\Debug\netcoreapp3.1\BestUzdNew.Domain.dll
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\bin\Debug\netcoreapp3.1\BestUzdNew.DataAccess.pdb
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\bin\Debug\netcoreapp3.1\BestUzdNew.Domain.pdb
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\obj\Debug\netcoreapp3.1\BestUzdNew.Logic.csproj.CopyComplete
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\obj\Debug\netcoreapp3.1\BestUzdNew.Logic.dll
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Logic\obj\Debug\netcoreapp3.1\BestUzdNew.Logic.pdb

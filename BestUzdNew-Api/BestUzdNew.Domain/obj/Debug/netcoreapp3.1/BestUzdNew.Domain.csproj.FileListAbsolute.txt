@@ -1,0 +1,9 @@
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Domain\bin\Debug\netcoreapp3.1\BestUzdNew.Domain.deps.json
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Domain\bin\Debug\netcoreapp3.1\BestUzdNew.Domain.dll
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Domain\bin\Debug\netcoreapp3.1\BestUzdNew.Domain.pdb
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Domain\obj\Debug\netcoreapp3.1\BestUzdNew.Domain.AssemblyInfoInputs.cache
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Domain\obj\Debug\netcoreapp3.1\BestUzdNew.Domain.AssemblyInfo.cs
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Domain\obj\Debug\netcoreapp3.1\BestUzdNew.Domain.csproj.CoreCompileInputs.cache
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Domain\obj\Debug\netcoreapp3.1\BestUzdNew.Domain.dll
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Domain\obj\Debug\netcoreapp3.1\BestUzdNew.Domain.pdb
+C:\Development\BestUzdNew\src\BestUzdNew-Api\BestUzdNew.Domain\obj\Debug\netcoreapp3.1\BestUzdNew.Domain.csproj.AssemblyReference.cache
